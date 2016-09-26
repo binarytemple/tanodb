@@ -17,3 +17,5 @@ _deps
 _plugins
 _tdeps
 logs
+.\#*
+\#*
